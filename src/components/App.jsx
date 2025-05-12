@@ -58,7 +58,7 @@ const App = () => {
           </button>
         </div>
       ))}
-      <button onClick={handleClick}>Add More</button>
+      <button onClick={handleClick}>Add More..</button>
       <button
         onClick={() => {
           console.log(records);
